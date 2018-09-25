@@ -1,7 +1,7 @@
 [
  {
-  "PictureUrl": "~/images/test.png",
-  "ThumbnailUrl": "~/thumbnail/test.png",
+  "PictureUrl": "assets/big/1.jpg",
+  "ThumbnailUrl": "assets/thumb/1.jpg",
   "Date": "02/08/2018",
   "Time": "09.00.00AM",
   "ImageName": "NewImage",
@@ -9,8 +9,8 @@
   "StoreName": "Store-1"
  },
  {
-  "PictureUrl": "~/images/test.png",
-  "ThumbnailUrl": "~/thumbnail/test.png",
+  "PictureUrl": "assets/big/2.jpg",
+  "ThumbnailUrl": "assets/thumb/2.jpg",
   "Date": "02/08/2018",
   "Time": "09.00.00AM",
   "ImageName": "NewImage",
@@ -18,12 +18,75 @@
   "StoreName": "Store-1"
  },
  {
-  "PictureUrl": "~/images/test.png",
-  "ThumbnailUrl": "~/thumbnail/test.png",
+  "PictureUrl": "assets/big/3.jpg",
+  "ThumbnailUrl": "assets/thumb/3.jpg",
   "Date": "02/08/2018",
   "Time": "09.00.00AM",
   "ImageName": "NewImage",
   "RCN#Store": "102920",
   "StoreName": "Store-1"
- } 
+ },
+  {
+  "PictureUrl": "assets/big/4.jpg",
+  "ThumbnailUrl": "assets/thumb/4.jpg",
+  "Date": "02/08/2018",
+  "Time": "09.00.00AM",
+  "ImageName": "NewImage",
+  "RCN#Store": "102920",
+  "StoreName": "Store-1"
+ },
+  {
+  "PictureUrl": "assets/big/5.jpg",
+  "ThumbnailUrl": "assets/thumb/5.jpg",
+  "Date": "02/08/2018",
+  "Time": "09.00.00AM",
+  "ImageName": "NewImage",
+  "RCN#Store": "102920",
+  "StoreName": "Store-1"
+ },
+  {
+  "PictureUrl": "assets/big/6.jpg",
+  "ThumbnailUrl": "assets/thumb/6.jpg",
+  "Date": "02/08/2018",
+  "Time": "09.00.00AM",
+  "ImageName": "NewImage",
+  "RCN#Store": "102920",
+  "StoreName": "Store-1"
+ },
+  {
+  "PictureUrl": "assets/big/7.jpg",
+  "ThumbnailUrl": "assets/thumb/7.jpg",
+  "Date": "02/08/2018",
+  "Time": "09.00.00AM",
+  "ImageName": "NewImage",
+  "RCN#Store": "102920",
+  "StoreName": "Store-1"
+ },
+  {
+  "PictureUrl": "assets/big/8.jpg",
+  "ThumbnailUrl": "assets/thumb/8.jpg",
+  "Date": "02/08/2018",
+  "Time": "09.00.00AM",
+  "ImageName": "NewImage",
+  "RCN#Store": "102920",
+  "StoreName": "Store-1"
+ },
+  {
+  "PictureUrl": "assets/big/9.jpg",
+  "ThumbnailUrl": "assets/thumb/9.jpg",
+  "Date": "02/08/2018",
+  "Time": "09.00.00AM",
+  "ImageName": "NewImage",
+  "RCN#Store": "102920",
+  "StoreName": "Store-1"
+ },
+  {
+  "PictureUrl": "assets/big/10.jpg",
+  "ThumbnailUrl": "assets/thumb/10.jpg",
+  "Date": "02/08/2018",
+  "Time": "09.00.00AM",
+  "ImageName": "NewImage",
+  "RCN#Store": "102920",
+  "StoreName": "Store-1"
+ },
  ]
