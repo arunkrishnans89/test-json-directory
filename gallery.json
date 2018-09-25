@@ -1,0 +1,29 @@
+[
+ {
+  "PictureUrl": "~/images/test.png",
+  "ThumbnailUrl": "~/thumbnail/test.png",
+  "Date": "02/08/2018",
+  "Time": "09.00.00AM",
+  "ImageName": "NewImage",
+  "RCN#Store": "102920",
+  "StoreName": "Store-1"
+ },
+ {
+  "PictureUrl": "~/images/test.png",
+  "ThumbnailUrl": "~/thumbnail/test.png",
+  "Date": "02/08/2018",
+  "Time": "09.00.00AM",
+  "ImageName": "NewImage",
+  "RCN#Store": "102920",
+  "StoreName": "Store-1"
+ },
+ {
+  "PictureUrl": "~/images/test.png",
+  "ThumbnailUrl": "~/thumbnail/test.png",
+  "Date": "02/08/2018",
+  "Time": "09.00.00AM",
+  "ImageName": "NewImage",
+  "RCN#Store": "102920",
+  "StoreName": "Store-1"
+ } 
+ ]
