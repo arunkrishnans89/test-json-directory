@@ -1,1 +1,32 @@
-"totalSales":8346.97,"dailySales":0.0,"affiliateSales":0.0,"nonAffiliateSales":8346.97,"totalTransactions":69,"totalConsumers":0
+[
+    [
+        {
+            "Yr": 2019,
+            "totalSales": 8446.92,
+            "totalTransactions": 70,
+            "affiliateSales": 8306.97,
+            "nonAffiliateSales": 139.95
+        }
+    ],
+    [
+        {
+            "TodaysSale": 0
+        }
+    ],
+    [
+        {
+            "Yr": 2019,
+            "totalConsumers": 62
+        }
+    ],
+    {
+        "fieldCount": 0,
+        "affectedRows": 0,
+        "insertId": 0,
+        "serverStatus": 34,
+        "warningCount": 0,
+        "message": "",
+        "protocol41": true,
+        "changedRows": 0
+    }
+]
