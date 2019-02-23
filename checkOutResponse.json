@@ -1,0 +1,84 @@
+[
+    [
+        {
+            "Yr": 2018,
+            "robotCheckout": 113,
+            "failedCheckouts": 105,
+            "humanInterventions": 26
+        }
+    ],
+    [
+        {
+            "Yr": 2018,
+            "Qtr": 1,
+            "robotCheckout": 0,
+            "failedCheckouts": 0,
+            "humanInterventions": 0
+        },
+        {
+            "Yr": 2018,
+            "Qtr": 2,
+            "robotCheckout": 0,
+            "failedCheckouts": 0,
+            "humanInterventions": 0
+        },
+        {
+            "Yr": 2018,
+            "Qtr": 3,
+            "robotCheckout": 7,
+            "failedCheckouts": 15,
+            "humanInterventions": 0
+        },
+        {
+            "Yr": 2018,
+            "Qtr": 4,
+            "robotCheckout": 106,
+            "failedCheckouts": 90,
+            "humanInterventions": 26
+        }
+    ],
+    [
+        {
+            "Yr": 2018,
+            "Qtr": 3,
+            "Mnth": "September",
+            "robotCheckout": 7,
+            "failedCheckouts": 15,
+            "humanInterventions": 0
+        },
+        {
+            "Yr": 2018,
+            "Qtr": 4,
+            "Mnth": "October",
+            "robotCheckout": 78,
+            "failedCheckouts": 76,
+            "humanInterventions": 4
+        },
+        {
+            "Yr": 2018,
+            "Qtr": 4,
+            "Mnth": "November",
+            "robotCheckout": 7,
+            "failedCheckouts": 1,
+            "humanInterventions": 12
+        },
+        {
+            "Yr": 2018,
+            "Qtr": 4,
+            "Mnth": "December",
+            "robotCheckout": 21,
+            "failedCheckouts": 13,
+            "humanInterventions": 10
+        }
+    ],
+    {
+        "fieldCount": 0,
+        "affectedRows": 0,
+        "insertId": 0,
+        "serverStatus": 34,
+        "warningCount": 0,
+        "message": "",
+        "protocol41": true,
+        "changedRows": 0
+    }
+]

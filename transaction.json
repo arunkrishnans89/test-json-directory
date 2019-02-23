@@ -1,0 +1,116 @@
+[
+    [
+        {
+            "Yr": 2018,
+            "Qtr": 1,
+            "totalSales": 0,
+            "totalTransactions": 0
+        },
+        {
+            "Yr": 2018,
+            "Qtr": 2,
+            "totalSales": 0,
+            "totalTransactions": 0
+        },
+        {
+            "Yr": 2018,
+            "Qtr": 3,
+            "totalSales": 338.4,
+            "totalTransactions": 7
+        },
+        {
+            "Yr": 2018,
+            "Qtr": 4,
+            "totalSales": 11235.95,
+            "totalTransactions": 132
+        }
+    ],
+    [
+        {
+            "Yr": 2018,
+            "Qtr": 1,
+            "totalConsumers": 0
+        },
+        {
+            "Yr": 2018,
+            "Qtr": 2,
+            "totalConsumers": 0
+        },
+        {
+            "Yr": 2018,
+            "Qtr": 3,
+            "totalConsumers": 8
+        },
+        {
+            "Yr": 2018,
+            "Qtr": 4,
+            "totalConsumers": 61
+        }
+    ],
+    [
+        {
+            "Yr": 2018,
+            "Qtr": 3,
+            "Mnth": "September",
+            "totalSales": 338.4,
+            "totalTransactions": 7
+        },
+        {
+            "Yr": 2018,
+            "Qtr": 4,
+            "Mnth": "October",
+            "totalSales": 6716.97,
+            "totalTransactions": 82
+        },
+        {
+            "Yr": 2018,
+            "Qtr": 4,
+            "Mnth": "November",
+            "totalSales": 1744.23,
+            "totalTransactions": 19
+        },
+        {
+            "Yr": 2018,
+            "Qtr": 4,
+            "Mnth": "December",
+            "totalSales": 2774.75,
+            "totalTransactions": 31
+        }
+    ],
+    [
+        {
+            "Yr": 2018,
+            "Qtr": 3,
+            "Mnth": "September",
+            "totalConsumers": 8
+        },
+        {
+            "Yr": 2018,
+            "Qtr": 4,
+            "Mnth": "October",
+            "totalConsumers": 19
+        },
+        {
+            "Yr": 2018,
+            "Qtr": 4,
+            "Mnth": "November",
+            "totalConsumers": 24
+        },
+        {
+            "Yr": 2018,
+            "Qtr": 4,
+            "Mnth": "December",
+            "totalConsumers": 18
+        }
+    ],
+    {
+        "fieldCount": 0,
+        "affectedRows": 0,
+        "insertId": 0,
+        "serverStatus": 34,
+        "warningCount": 0,
+        "message": "",
+        "protocol41": true,
+        "changedRows": 0
+    }
+]

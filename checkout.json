@@ -1,0 +1,61 @@
+[
+    [
+        {
+            "Yr": 2019,
+            "robotCheckout": 49,
+            "failedCheckouts": 15,
+            "humanInterventions": 21
+        }
+    ],
+    [
+        {
+            "Yr": 2018,
+            "Qtr": 1,
+            "robotCheckout": 0,
+            "failedCheckouts": 0,
+            "humanInterventions": 0
+        },
+        {
+            "Yr": 2018,
+            "Qtr": 2,
+            "robotCheckout": 0,
+            "failedCheckouts": 0,
+            "humanInterventions": 0
+        },
+        {
+            "Yr": 2019,
+            "Qtr": 1,
+            "robotCheckout": 49,
+            "failedCheckouts": 15,
+            "humanInterventions": 21
+        }
+    ],
+    [
+        {
+            "Yr": 2019,
+            "Qtr": 1,
+            "Mnth": "January",
+            "robotCheckout": 44,
+            "failedCheckouts": 12,
+            "humanInterventions": 19
+        },
+        {
+            "Yr": 2019,
+            "Qtr": 1,
+            "Mnth": "February",
+            "robotCheckout": 5,
+            "failedCheckouts": 3,
+            "humanInterventions": 2
+        }
+    ],
+    {
+        "fieldCount": 0,
+        "affectedRows": 0,
+        "insertId": 0,
+        "serverStatus": 34,
+        "warningCount": 0,
+        "message": "",
+        "protocol41": true,
+        "changedRows": 0
+    }
+]

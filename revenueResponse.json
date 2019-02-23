@@ -1,0 +1,42 @@
+[
+    [
+        {
+            "Yr": 2018,
+            "qutr": 4,
+            "TotalRevenue": 232.17999999999998
+        }
+    ],
+    [
+        {
+            "Yr": 2018,
+            "qutr": 4,
+            "Mnth": "October",
+            "Dy": 15,
+            "TotalRevenue": 65.62
+        },
+        {
+            "Yr": 2018,
+            "qutr": 4,
+            "Mnth": "November",
+            "Dy": 2,
+            "TotalRevenue": 39.32000000000001
+        },
+        {
+            "Yr": 2018,
+            "qutr": 4,
+            "Mnth": "December",
+            "Dy": 2,
+            "TotalRevenue": 127.24000000000002
+        }
+    ],
+    {
+        "fieldCount": 0,
+        "affectedRows": 0,
+        "insertId": 0,
+        "serverStatus": 34,
+        "warningCount": 0,
+        "message": "",
+        "protocol41": true,
+        "changedRows": 0
+    }
+]
