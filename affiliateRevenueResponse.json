@@ -12,5 +12,19 @@
         "blockName":"Ettumannoor Block",
         "email":"ettumanoorpanchayathu@gmail.com",
         "phone":"9539746583"
+    },
+    {
+        "localbodyName":"Mevelloor",
+        "numberOfWard":"20",
+        "blockName":"Vaikom",
+        "email":"Mevelloor@gmail.com",
+        "phone":"9539746583"
+    },
+    {
+        "localbodyName":"Thonnalloor",
+        "numberOfWard":"15",
+        "blockName":"Ettumannoor Block",
+        "email":"Thonnalloor@gmail.com",
+        "phone":"9539746583"
     }
 ]
