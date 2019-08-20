@@ -1,75 +1,16 @@
 [
-    [
-        {
-            "Yr": 2018,
-            "affiliateRevenue": 6629.39,
-            "nonAffiliateRevenue": 4944.96
-        }
-    ],
-    [
-        {
-            "Yr": 2018,
-            "Qtr": 1,
-            "affiliateRevenue": 0,
-            "nonAffiliateRevenue": 0
-        },
-        {
-            "Yr": 2018,
-            "Qtr": 2,
-            "affiliateRevenue": 0,
-            "nonAffiliateRevenue": 0
-        },
-        {
-            "Yr": 2018,
-            "Qtr": 3,
-            "affiliateRevenue": 0,
-            "nonAffiliateRevenue": 338.4
-        },
-        {
-            "Yr": 2018,
-            "Qtr": 4,
-            "affiliateRevenue": 6629.39,
-            "nonAffiliateRevenue": 4606.56
-        }
-    ],
-    [
-        {
-            "Yr": 2018,
-            "Qtr": 3,
-            "Mnth": "September",
-            "affiliateRevenue": 0,
-            "nonAffiliateRevenue": 338.4
-        },
-        {
-            "Yr": 2018,
-            "Qtr": 4,
-            "Mnth": "October",
-            "affiliateRevenue": 2127.41,
-            "nonAffiliateRevenue": 4589.56
-        },
-        {
-            "Yr": 2018,
-            "Qtr": 4,
-            "Mnth": "November",
-            "affiliateRevenue": 1744.23,
-            "nonAffiliateRevenue": 0
-        },
-        {
-            "Yr": 2018,
-            "Qtr": 4,
-            "Mnth": "December",
-            "affiliateRevenue": 2757.75,
-            "nonAffiliateRevenue": 17
-        }
-    ],
     {
-        "fieldCount": 0,
-        "affectedRows": 0,
-        "insertId": 0,
-        "serverStatus": 34,
-        "warningCount": 0,
-        "message": "",
-        "protocol41": true,
-        "changedRows": 0
+        "localbodyName":"Velloor",
+        "numberOfWard":"20",
+        "blockName":"Vaikom",
+        "email":"velloorpanchayathu@gmail.com",
+        "phone":"9539746583"
+    },
+    {
+        "localbodyName":"Ettumanoor",
+        "numberOfWard":"15",
+        "blockName":"Ettumannoor Block",
+        "email":"ettumanoorpanchayathu@gmail.com",
+        "phone":"9539746583"
     }
 ]
