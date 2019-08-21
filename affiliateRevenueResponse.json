@@ -1,5 +1,6 @@
-[
-    {
+
+[   
+ {
         "district":"kottayam",
         "localbodyName":"Velloor",
         "numberOfWard":"ve20",
@@ -20,28 +21,7 @@
         "harithakarmaSenaName":"veHarithakarmaSena",
         "harithakarmaSenaPhone":"ve78654322224"
     },
-    {
-        "district":"kottayam",
-        "localbodyName":"Mevelloor",
-        "numberOfWard":"Me20",
-        "amountForHome":"Me30",
-        "amountForShop":"Me30",
-        "amountForRestaurants":"Me50",
-        "amountForMarket":"Me50",
-        "amountForIndustry":"Me100",
-        "blockName":"MeVaikom",
-        "phone":"Me9539761562",
-        "email":"Me@gmail.com",
-        "presidentName":"MeArun Krishnan",
-        "presidentPhone":"Me8754328907",
-        "secretaryName":"MeSurendran",
-        "secretaryPhone":"Me5654328796",
-        "implementingOfficer":"MeSaneesh P F",
-        "implementingOfficerPhone":"Me6543278974",
-        "harithakarmaSenaName":"MeHarithakarmaSena",
-        "harithakarmaSenaPhone":"Me78654322224"
-    },
-     {
+{
         "district":"kottayam",
         "localbodyName":"Thonnalloor",
         "numberOfWard":"Th20",
@@ -62,5 +42,26 @@
         "harithakarmaSenaName":"ThHarithakarmaSena",
         "harithakarmaSenaPhone":"Th78654322224"
     },
-   
+{
+        "district":"kottayam",
+        "localbodyName":"Peruva",
+        "numberOfWard":"Pe20",
+        "amountForHome":"Pe30",
+        "amountForShop":"Pe30",
+        "amountForRestaurants":"Pe50",
+        "amountForMarket":"Pe50",
+        "amountForIndustry":"Pe100",
+        "blockName":"PeVaikom",
+        "phone":"Pe9539761562",
+        "email":"Pe@gmail.com",
+        "presidentName":"PeArun Krishnan",
+        "presidentPhone":"Pe8754328907",
+        "secretaryName":"PeSurendran",
+        "secretaryPhone":"Pe5654328796",
+        "implementingOfficer":"PeSaneesh P F",
+        "implementingOfficerPhone":"Pe6543278974",
+        "harithakarmaSenaName":"PeHarithakarmaSena",
+        "harithakarmaSenaPhone":"Pe78654322224"
+    }
 ]
+   
