@@ -1,65 +1,65 @@
 [
     {
-        "district":"kottayam"
-        "localbodyName":"Velloor"
-        "numberOfWard":"ve20"
-        "amountForHome":"ve30"
-        "amountForShop":"ve30"
-        "amountForRestaurants":"ve50"
-        "amountForMarket":"ve50"
-        "amountForIndustry":"ve100"
-        "blockName":"veVaikom"
-        "phone":"ve9539761562"
-        "email":"velloor@gmail.com"
-        "presidentName":"veArun Krishnan"
-        "presidentPhone":"ve8754328907"
-        "secretaryName":"veSurendran"
-        "secretaryPhone":"ve5654328796"
-        "implementingOfficer":"veSaneesh P F"
-        "implementingOfficerPhone":"ve6543278974"
-        "harithakarmaSenaName":"veHarithakarmaSena"
+        "district":"kottayam",
+        "localbodyName":"Velloor",
+        "numberOfWard":"ve20",
+        "amountForHome":"ve30",
+        "amountForShop":"ve30",
+        "amountForRestaurants":"ve50",
+        "amountForMarket":"ve50",
+        "amountForIndustry":"ve100",
+        "blockName":"veVaikom",
+        "phone":"ve9539761562",
+        "email":"velloor@gmail.com",
+        "presidentName":"veArun Krishnan",
+        "presidentPhone":"ve8754328907",
+        "secretaryName":"veSurendran",
+        "secretaryPhone":"ve5654328796",
+        "implementingOfficer":"veSaneesh P F",
+        "implementingOfficerPhone":"ve6543278974",
+        "harithakarmaSenaName":"veHarithakarmaSena",
         "harithakarmaSenaPhone":"ve78654322224"
     },
     {
-        "district":"kottayam"
-        "localbodyName":"Mevelloor"
-        "numberOfWard":"Me20"
-        "amountForHome":"Me30"
-        "amountForShop":"Me30"
-        "amountForRestaurants":"Me50"
-        "amountForMarket":"Me50"
-        "amountForIndustry":"Me100"
-        "blockName":"MeVaikom"
-        "phone":"Me9539761562"
-        "email":"Me@gmail.com"
-        "presidentName":"MeArun Krishnan"
-        "presidentPhone":"Me8754328907"
-        "secretaryName":"MeSurendran"
-        "secretaryPhone":"Me5654328796"
-        "implementingOfficer":"MeSaneesh P F"
-        "implementingOfficerPhone":"Me6543278974"
-        "harithakarmaSenaName":"MeHarithakarmaSena"
+        "district":"kottayam",
+        "localbodyName":"Mevelloor",
+        "numberOfWard":"Me20",
+        "amountForHome":"Me30",
+        "amountForShop":"Me30",
+        "amountForRestaurants":"Me50",
+        "amountForMarket":"Me50",
+        "amountForIndustry":"Me100",
+        "blockName":"MeVaikom",
+        "phone":"Me9539761562",
+        "email":"Me@gmail.com",
+        "presidentName":"MeArun Krishnan",
+        "presidentPhone":"Me8754328907",
+        "secretaryName":"MeSurendran",
+        "secretaryPhone":"Me5654328796",
+        "implementingOfficer":"MeSaneesh P F",
+        "implementingOfficerPhone":"Me6543278974",
+        "harithakarmaSenaName":"MeHarithakarmaSena",
         "harithakarmaSenaPhone":"Me78654322224"
     },
      {
-        "district":"kottayam"
-        "localbodyName":"Thonnalloor"
-        "numberOfWard":"Th20"
-        "amountForHome":"Th30"
-        "amountForShop":"Th30"
-        "amountForRestaurants":"Th50"
-        "amountForMarket":"Th50"
-        "amountForIndustry":"Th100"
-        "blockName":"ThVaikom"
-        "phone":"Th9539761562"
-        "email":"Th@gmail.com"
-        "presidentName":"ThArun Krishnan"
-        "presidentPhone":"Th8754328907"
-        "secretaryName":"ThSurendran"
-        "secretaryPhone":"Th5654328796"
-        "implementingOfficer":"ThSaneesh P F"
-        "implementingOfficerPhone":"Th6543278974"
-        "harithakarmaSenaName":"ThHarithakarmaSena"
+        "district":"kottayam",
+        "localbodyName":"Thonnalloor",
+        "numberOfWard":"Th20",
+        "amountForHome":"Th30",
+        "amountForShop":"Th30",
+        "amountForRestaurants":"Th50",
+        "amountForMarket":"Th50",
+        "amountForIndustry":"Th100",
+        "blockName":"ThVaikom",
+        "phone":"Th9539761562",
+        "email":"Th@gmail.com",
+        "presidentName":"ThArun Krishnan",
+        "presidentPhone":"Th8754328907",
+        "secretaryName":"ThSurendran",
+        "secretaryPhone":"Th5654328796",
+        "implementingOfficer":"ThSaneesh P F",
+        "implementingOfficerPhone":"Th6543278974",
+        "harithakarmaSenaName":"ThHarithakarmaSena",
         "harithakarmaSenaPhone":"Th78654322224"
     },
    
