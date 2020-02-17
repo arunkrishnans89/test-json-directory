@@ -1,32 +1,111 @@
-[
-    [
+{
+    "@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('b2e34c30-63e9-4e3a-9dbf-b222c9b58ea2')/lists('f119ecc7-c0c4-48d8-8399-00805b6eae07')/items(id,fields,fields(Title,Description,TechContacts,SMEContact))",
+    "value": [
         {
-            "Yr": 2019,
-            "totalSales": 8446.92,
-            "totalTransactions": 70,
-            "affiliateSales": 8306.97,
-            "nonAffiliateSales": 139.95
-        }
-    ],
-    [
+            "@odata.etag": "\"a27d58e6-a9ab-4c68-b4ac-7337c6dd7554,6\"",
+            "id": "1",
+            "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('b2e34c30-63e9-4e3a-9dbf-b222c9b58ea2')/lists('f119ecc7-c0c4-48d8-8399-00805b6eae07')/items('1')/fields(Title,Description,TechContacts,SMEContact)/$entity",
+            "fields": {
+                "@odata.etag": "\"a27d58e6-a9ab-4c68-b4ac-7337c6dd7554,6\"",
+                "Title": "Field Services",
+                "TechContacts": [
+                    {
+                        "LookupId": 10,
+                        "LookupValue": "Manoj Champanerkar",
+                        "Email": "manoj.champanerkar@speridian.com"
+                    },
+                    {
+                        "LookupId": 63,
+                        "LookupValue": "Mario Noronha",
+                        "Email": "mario.noronha@speridian.com"
+                    }
+                ],
+                "SMEContact": [
+                    {
+                        "LookupId": 77,
+                        "LookupValue": "Matt Conine",
+                        "Email": "matt.conine@speridian.com"
+                    },
+                    {
+                        "LookupId": 10,
+                        "LookupValue": "Manoj Champanerkar",
+                        "Email": "manoj.champanerkar@speridian.com"
+                    }
+                ],
+                "Description": "Field Inspection Description"
+            }
+        },
         {
-            "TodaysSale": 0
-        }
-    ],
-    [
+            "@odata.etag": "\"0b92d125-5587-4c05-bc93-6f80b181aa69,1\"",
+            "id": "2",
+            "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('b2e34c30-63e9-4e3a-9dbf-b222c9b58ea2')/lists('f119ecc7-c0c4-48d8-8399-00805b6eae07')/items('2')/fields(Title,Description,TechContacts,SMEContact)/$entity",
+            "fields": {
+                "@odata.etag": "\"0b92d125-5587-4c05-bc93-6f80b181aa69,1\"",
+                "Title": "Application Security",
+                "TechContacts": [
+                    {
+                        "LookupId": 50,
+                        "LookupValue": "Bobek Djeyfroudi",
+                        "Email": "bobek.djeyfroudi@speridian.com"
+                    }
+                ],
+                "SMEContact": [
+                    {
+                        "LookupId": 50,
+                        "LookupValue": "Bobek Djeyfroudi",
+                        "Email": "bobek.djeyfroudi@speridian.com"
+                    }
+                ],
+                "Description": "Application security insights"
+            }
+        },
         {
-            "Yr": 2019,
-            "totalConsumers": 62
+            "@odata.etag": "\"c99fcd5e-63c5-408e-9bd9-026dd4ad1984,1\"",
+            "id": "3",
+            "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('b2e34c30-63e9-4e3a-9dbf-b222c9b58ea2')/lists('f119ecc7-c0c4-48d8-8399-00805b6eae07')/items('3')/fields(Title,Description,TechContacts,SMEContact)/$entity",
+            "fields": {
+                "@odata.etag": "\"c99fcd5e-63c5-408e-9bd9-026dd4ad1984,1\"",
+                "Title": "Warranty Nexus",
+                "TechContacts": [
+                    {
+                        "LookupId": 50,
+                        "LookupValue": "Bobek Djeyfroudi",
+                        "Email": "bobek.djeyfroudi@speridian.com"
+                    }
+                ],
+                "SMEContact": [
+                    {
+                        "LookupId": 50,
+                        "LookupValue": "Bobek Djeyfroudi",
+                        "Email": "bobek.djeyfroudi@speridian.com"
+                    }
+                ],
+                "Description": "Accelerators for managing warranty on service cloud"
+            }
+        },
+        {
+            "@odata.etag": "\"1ee95535-3a2d-4d29-b2e4-3bf9fd0e9e66,1\"",
+            "id": "4",
+            "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('b2e34c30-63e9-4e3a-9dbf-b222c9b58ea2')/lists('f119ecc7-c0c4-48d8-8399-00805b6eae07')/items('4')/fields(Title,Description,TechContacts,SMEContact)/$entity",
+            "fields": {
+                "@odata.etag": "\"1ee95535-3a2d-4d29-b2e4-3bf9fd0e9e66,1\"",
+                "Title": "Dr. Dashboard",
+                "TechContacts": [
+                    {
+                        "LookupId": 50,
+                        "LookupValue": "Bobek Djeyfroudi",
+                        "Email": "bobek.djeyfroudi@speridian.com"
+                    }
+                ],
+                "SMEContact": [
+                    {
+                        "LookupId": 50,
+                        "LookupValue": "Bobek Djeyfroudi",
+                        "Email": "bobek.djeyfroudi@speridian.com"
+                    }
+                ],
+                "Description": "single sign-on portal for doctors"
+            }
         }
-    ],
-    {
-        "fieldCount": 0,
-        "affectedRows": 0,
-        "insertId": 0,
-        "serverStatus": 34,
-        "warningCount": 0,
-        "message": "",
-        "protocol41": true,
-        "changedRows": 0
-    }
-]
+    ]
+}
