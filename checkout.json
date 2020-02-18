@@ -1,16 +1,29 @@
-[
-    {
-        "localbodyName":"Velloor",
-        "numberOfWard":"20",
-        "blockName":"Vaikom",
-        "email":"velloorpanchayathu@gmail.com",
-        "phone":"9539746583"
-    },
-    {
-        "localbodyName":"Ettumanoor",
-        "numberOfWard":"15",
-        "blockName":"Ettumannoor Block",
-        "email":"ettumanoorpanchayathu@gmail.com",
-        "phone":"9539746583"
-    }
-]
+{
+    "@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('b2e34c30-63e9-4e3a-9dbf-b222c9b58ea2')/drives('b%21MEzjsuljOk6dv7IiybWOoicoeaXbCXhPs5SYpjg4sTKl2lIGwfCMRo9DlUXu9lYv')/root/children",
+    "value": [
+        {
+            "id": "015SBWH6VK6CJQBWB5SVGLDFTUWQLT3H3A",
+            "name": "Application Security"
+        },
+        {
+            "id": "015SBWH6SST6YGDJVBERFY2JSEP3XSGZRM",
+            "name": "Dr. Dashboard"
+        },
+        {
+            "id": "015SBWH6RR4IDRFUW27RFYBNGRESBPO7VW",
+            "name": "Field Services"
+        },
+        {
+            "id": "015SBWH6T6QCHNALH7V5E23ZQXNNTCGPNN",
+            "name": "GOV CX 311"
+        },
+        {
+            "id": "015SBWH6SZVTH63TQMCZC36KJ7SRIFK4BU",
+            "name": "RPA"
+        },
+        {
+            "id": "015SBWH6UM7WX6ONOY4ZFKFD4WLGMXTWNN",
+            "name": "Warranty NEXUS"
+        }
+    ]
+}
